@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adrian Fajardo
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on projects using javascript
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on projects using React.js
 - 📫 How to reach me +639154983072
 
 
