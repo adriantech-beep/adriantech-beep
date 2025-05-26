@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adrian Fajardo
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning React.js and exploring Next.js
+- 🌱 I’m currently learning React.js and exploring Next.js and Typescript
 - 💞️ I’m looking to collaborate on projects using React.js or Next.js
 - 📫 How to reach me +639154983072
 
