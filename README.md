@@ -1,20 +1,20 @@
 <h1 align="center">👋 Hi, I'm Adrian Fajardo</h1>
 
 <p align="center">
-  💻 Frontend Developer | React & MERN Stack Enthusiast <br />
-  🔧 Builder of modern, efficient UIs & real-world systems <br />
-  🎯 Career shifter from Mobile Repair to Web Development <br />
+   Frontend Developer | React & MERN Stack Enthusiast <br />
+   Builder of modern, efficient UIs & real-world systems <br />
+   Career shifter from Mobile Repair to Web Development <br />
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:your.email@example.com">📬 Email</a> •
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">💼 LinkedIn</a>
+  <a href="https://adrian-fajardo-frontend-developer.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:adhrianne29@gmail.com">📬 Email</a> •
+  <a href="https://www.linkedin.com/in/adrian-fajardo-965429143/" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Frontend**
 - React, Tailwind CSS, Framer Motion, Zustand, React Query
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧩 Featured Projects
+##  Featured Projects
 
 ### 🏭 Inventory & Production Tracker
 A full-featured web app for tracking stock, raw materials, and mixture output for a small-scale production business.
@@ -37,7 +37,7 @@ A full-featured web app for tracking stock, raw materials, and mixture output fo
 - 📊 Dashboard stats and logs per production day
 - 🧠 Real-world logic (e.g. 1 box = 14 bags = 7kg, 1 mixture = 11.31 jars, etc.)
 
-[🔗 Live Demo](#) • [📁 Repo](https://github.com/AdrianFajardo/inventory-tracker)
+[🔗 Live Demo](https://tartland-inventory-system.vercel.app/) • [📁 Repo](https://github.com/adriantech-beep/tartland-inventory-system.git)
 
 ---
 
@@ -49,11 +49,11 @@ A retro-themed pizza ordering system with an admin panel to manage products and 
 - 📷 Product image uploads via Cloudinary
 - 📦 Soft delete and restore for products
 
-[🔗 Live Demo](#) • [📁 Repo](https://github.com/AdrianFajardo/retro-pizza-app)
+[🔗 Live Demo](https://retro-pizza-main.vercel.app/) • [📁 Repo](https://github.com/adriantech-beep/retro-pizza-main.git)
 
 ---
 
-### 🛍️ Staff Portal + Customer Panel (MERN)
+### 🍕 Retro Pizza Admin (MERN)
 A multi-role system allowing staff to manage orders and users, with separate login portals for customers and admins.
 
 - 🔑 JWT-based Auth
@@ -61,11 +61,11 @@ A multi-role system allowing staff to manage orders and users, with separate log
 - 🔄 Reusable hooks with React Query
 - 🖼️ Avatar upload on signup
 
-[📁 Repo](https://github.com/AdrianFajardo/staff-customer-panel)
+[🔗 Live Demo](https://retro-pizza-admin.vercel.app/#/login) • [📁 Repo](https://github.com/adriantech-beep/retro-pizza-admin.git)
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdrianFajardo&show_icons=true&theme=tokyonight" height="170" />
