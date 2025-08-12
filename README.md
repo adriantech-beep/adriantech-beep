@@ -3,7 +3,6 @@
 <p align="center">
    Frontend Developer | React & MERN Stack Enthusiast <br />
    Builder of modern, efficient UIs & real-world systems <br />
-   Career shifter from Mobile Repair to Web Development <br />
 </p>
 
 <p align="center">
