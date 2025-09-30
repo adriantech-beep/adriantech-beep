@@ -28,56 +28,28 @@
 
 ##  Featured Projects
 
-### 🏭 Inventory & Production Tracker
-A full-featured web app for tracking stock, raw materials, and mixture output for a small-scale production business.
+### 🏭 TechFix Admin – Repair Guide Management Dashboard
+TechFix Admin is the management dashboard for TechFix AI. It allows administrators and staff to manage repair guides, tools, parts, and user access through a secure, role-based system. The platform ensures that repair content is accurate, organized, and scalable as TechFix AI grows.
 
-- 🔒 Role-based login with authentication
-- 📦 Dynamic stock and material tracking per flavor
-- 📊 Dashboard stats and logs per production day
-- 🧠 Real-world logic (e.g. 1 box = 14 bags = 7kg, 1 mixture = 11.31 jars, etc.)
+- Add, edit, and delete repair guides.
+- Manage tools, parts, and difficulty levels.
+- Assign user roles (admin, staff, moderator) to control access.
+- Track changes and manage published/unpublished content.
 
-[🔗 Live Demo](https://tartland-inventory-system.vercel.app/) • [📁 Repo](https://github.com/adriantech-beep/tartland-inventory-system.git)
-
----
-
-### 🍕 Retro Pizza App
-A retro-themed pizza ordering system with an admin panel to manage products and orders.
-
-- 🛒 Order flow with cart, checkout, and order history
-- 🧑‍💼 Admin system with role-based access
-- 📷 Product image uploads via Cloudinary
-- 📦 Soft delete and restore for products
-
-[🔗 Live Demo](https://retro-pizza-main.vercel.app/) • [📁 Repo](https://github.com/adriantech-beep/retro-pizza-main.git)
+[🔗 Live Demo](https://techfix-admin-v2.vercel.app) • [📁 Repo](https://github.com/adriantech-beep/techfix-admin-v2.git)
 
 ---
 
-### 🍕 Retro Pizza Admin (MERN)
-A multi-role system allowing staff to manage orders and users, with separate login portals for customers and admins.
+### TechFix AI – Your Cellphone & Laptop Repair Mentor
+TechFix AI is an AI-powered web app designed to help beginners repair cellphones and laptops safely. It provides step-by-step repair guides, tool and part recommendations, and conversational support through an AI mentor. By combining structured repair data with intelligent chat responses, TechFix AI makes device repair more accessible, affordable, and less intimidating.
 
-- 🔑 JWT-based Auth
-- 📁 Modular backend routes
-- 🔄 Reusable hooks with React Query
-- 🖼️ Avatar upload on signup
+- AI Repair Mentor – Conversational guidance for repair questions.
+- Step-by-Step Guides – Organized by device type, brand, and model.
+- Image/PDF Support – Exploded diagrams with renamed, labeled parts.
+- Searchable Guides – Find repairs by keyword, model, or device type.
 
-[🔗 Live Demo](https://retro-pizza-admin.vercel.app/#/login) • [📁 Repo](https://github.com/adriantech-beep/retro-pizza-admin.git)
+[🔗 Live Demo](https://techfix-ai-frontend.vercel.app) • [📁 Repo](https://github.com/adriantech-beep/techfix-admin-v2.git)
 
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianFajardo&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianFajardo&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-## ✨ Currently Working On
-
-- 🧪 A more advanced version of the inventory dashboard with production simulation and deficit prediction
-- 🧩 Reusable component libraries for admin systems
-- 🛠 Open-source mini tools for frontend workflows
 
 ---
 
