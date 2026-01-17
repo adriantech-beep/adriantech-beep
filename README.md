@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Adrian Fajardo</h1>
 
 <p align="center">
-   Frontend Developer | React & MERN Stack Enthusiast <br />
+   Full Stack Developer | React & MERN Stack Enthusiast <br />
    Builder of modern, efficient UIs & real-world systems <br />
 </p>
 
